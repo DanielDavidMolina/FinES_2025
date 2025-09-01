@@ -1,0 +1,290 @@
+---
+title: ""
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+details > summary {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+details[open] > summary {
+  background-color: #0056b3;
+}
+details details > summary {
+  background-color: #28a745;
+  color: white;
+  margin-top: 8px;
+}
+details details[open] > summary {
+  background-color: #1e7e34;
+}
+</style>
+
+<style>
+details > summary {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+details[open] > summary {
+  background-color: #0056b3;
+}
+</style>
+
+<style>
+p {
+  text-align: justify;
+  text-indent: 30px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+</style>
+
+<!-- Encabezado fijo -->
+<div style="position: fixed; top: 0; left: 0; width: 100%; 
+            background-color: #0056b3; color: white; 
+            padding: 10px; z-index: 1000;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+
+  <table style="width:100%; border-collapse:collapse; color: white;">
+    <tr>
+      <td style="width:80%; vertical-align:middle;">
+        <h1 style="margin: 0;">Programa FinES.</h1>
+        <h4 style="margin: 0;">2° Cuatrimestre 2025.</h4>
+        <p style="margin: 0;">Profesor: Daniel D. Molina</p>
+      </td>
+      <td style="width:20%; text-align:right;">
+        <img src="logo_fines.png" width="100px" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- Espaciado para que el contenido no quede oculto debajo del encabezado -->
+<div style="margin-top: 150px;">
+</div>
+
+
+## ¡Bienvenidos/as!
+
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+   <p style="margin: 0 0 5px 0; text-indent: 30px;">Bienvenidos y bienvenidas a este espacio. En él encontrarán materiales, recursos y actividades para desarrollar la cursada de las asignaturas <span style="font-weight: bold;">Metodología de la Investigación, Sociología y Derechos Humanos</span>, correspondientes al segundo cuatrimestre del año 2025 del Programa FinES de la ciudad de Rauch. <br>Les deseo el mayor de los éxitos y aprovecho para felicitarles por el inmenso esfuerzo que realizan.
+  </p>
+  <p style="margin: 0; font-weight: bold; text-align: right;">Prof. Daniel D. Molina</p>
+</div>
+ 
+## Breve guía práctica. 
+
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<span style="font-weight: bold;">¿Cómo utilizar esta página?</span> <br> En esta página encontrarán unos botones con el nombre de las asignaturas que dicto en este cuatrimestre. Ustedes deben ingresar en la que corresponde a su curso y año y encontrarán distintos materiales y recursos que les permitirán  conocer el detalle de la clase correspondiente, acceder al material de estudio y desarrollar actividades. <br>Las actividaddes se entregarán en formato físico (papel) y de manera presencial durante las clases. <br><span style="font-weight: bold;">Importante:</span> <br>Para aprobar la cursada es fundamental que cumplan con el requisito de asistencia del 80%. Tengan presente que son asignaturas con mucho trabajo en clase, que no puede ser reemplazado por la simple realización de trabajos prácticos. <br>Por otra parte, es sumamente importante que respeten la puntualidad del inicio de clases y de finalización de las mismas.</p>
+
+<details>
+<summary><strong>Metodología de la Investigación</strong></summary>
+
+<details>
+<summary><strong>Introducción</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<span style="font-weight: bold;">Introducción a la Metodología de la Investigación</span>
+<br>La metodología de la investigación es el conjunto de procedimientos, técnicas y herramientas que permiten producir conocimiento de manera ordenada, crítica y fundamentada. En otras palabras, es el camino que seguimos para preguntarnos sobre un problema, buscar información, analizarla y llegar a conclusiones.
+</div>
+<br><p style="text-indent: 30px; margin-bottom: 20px;">En el Programa Fines, aprender metodología de la investigación tiene un valor doble:
+<span style="font-weight: bold;">Académico,</span> porque permite desarrollar trabajos más organizados y fundamentados.
+<span style="font-weight: bold;">Ciudadano y laboral,</span> porque ayuda a analizar críticamente la realidad, tomar decisiones con base en evidencias y resolver problemas de la vida cotidiana.
+<br><span style="font-weight: bold;">¿Qué significa investigar?</span>
+<br>Investigar no es solamente algo que hacen los científicos. Investigar es formular preguntas sobre la realidad y tratar de responderlas con información confiable.
+<br><span style="font-weight: bold;">Ejemplos simples de la vida cotidiana:</span>
+<br>Comparar precios en distintos supermercados antes de comprar.
+<br>Consultar opiniones de usuarios antes de elegir un celular.
+<br>Revisar la historia de un hecho en Internet para comprenderlo mejor.
+<br><span style="font-weight: bold;">En el ámbito académico,</span> investigar supone:
+<br>Identificar un problema o tema de interés.
+<br>Formular una pregunta o hipótesis.
+<br>Reunir datos a través de fuentes confiables (libros, entrevistas, encuestas, observaciones).
+<br>Analizar esa información.
+<br>Comunicar los resultados de manera clara.
+<br><span style="font-weight: bold;">Etapas básicas de una investigación:</span>
+<br>Planteamiento del problema: definir qué queremos estudiar y por qué.
+<br>Revisión de la bibliografía: consultar lo que otros autores ya han escrito sobre el tema.
+<br>Formulación de objetivos y preguntas: qué buscamos responder.
+<br>Elección del método: cuantitativo (números, encuestas, estadísticas), cualitativo (entrevistas, relatos, observaciones) o mixto.
+<br>Recolección de datos: obtener la información.
+<br>Análisis de los resultados: interpretar los datos y relacionarlos con la pregunta inicial.
+<br>Conclusiones y comunicación: redactar un informe o presentación.<br>
+<span style="font-weight: bold;">Importancia para estudiantes del Plan Fines</span>
+<br>Desarrollar pensamiento crítico: cuestionar lo que se da por sentado.
+<br>Tomar decisiones informadas: basarse en hechos, no en rumores.
+<br>Fortalecer habilidades académicas: escribir, organizar ideas, argumentar.
+<br>Conectar la escuela con la vida cotidiana y laboral: investigar problemáticas del barrio, del trabajo o de la comunidad.
+</p>
+</details>
+
+<details>
+<summary><strong>Clases</strong></summary><br>
+
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">En este apartado encontrarán las explicaciones correspondientes a los conceptos desarrollados en cada clase. También podrán ver actividades para realizar o indicaciones sobre aspectos generales de la clase.
+</p>
+</style>
+
+<details>
+<summary><strong>Clase 1. Revisión de introducción y saberes previos.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>En esta clase nos presentamos y hacemos un recorrido por las ideas que presentamos en la introducción.<br>A continuación les dejo un link para acceder a un manual de metodología de la investigación. Se los dejo como material complementario por si llegaran a tener interés en profundizar algunas cuestiones.<br>
+<a href="Materiales/Metodologia_de_la_Inv.pdf" target="_blank">Manual de Introducción a la Metodología de la Investigación (PDF)</a><p style="text-indent: 30px; margin-bottom: 20px;">Y a continuación les dejo material de repaso de la primera clase para que lean y agreguen a sus registros de clase.
+<a href="Materiales/Introducción a la Metodología de la Investigación.pdf" target="_blank">Clase 1 (PDF)</a>
+</div>
+</details>
+
+<details>
+<summary><strong>Clase 2. Sentido común vs. pensamiento crítico.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+## Ideas principales.
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>En el segundo encuentro comenzamos a desarrollar las principales diferencias entre el sentido común y el pensamiento crítico o racional.<br><span style="font-weight: bold;">1. El sentido común en la vida cotidiana.</span><br>El sentido común es un conjunto de creencias, saberes y explicaciones compartidas socialmente que permiten orientarnos en la vida diaria. Surge de la experiencia, la tradición y la transmisión cultural.<br>Suelen ser respuestas rápidas, prácticas y aceptadas socialmente, pero no necesariamente verdaderas ni verificadas.<br>En investigación, apoyarse solo en el sentido común puede llevar a reproducir prejuicios, estereotipos o explicaciones simplistas. Por ejemplo: “los jóvenes no se interesan por la política” puede sonar lógico desde el sentido común, pero requiere ser comprobado empíricamente para saber si es cierto y en qué condiciones. <br><span style="font-weight: bold;">2. El pensamiento crítico en la investigación.</span><br>El pensamiento crítico implica analizar, cuestionar y someter a evaluación rigurosa las ideas, datos y supuestos. En la metodología de la investigación, esto significa:<br>No aceptar afirmaciones sin evidencia.<br>Formular preguntas que vayan más allá de lo aparente.<br>Contrastar hipótesis con datos empíricos.<br>Revisar posibles sesgos en la observación o en la interpretación.<br>El pensamiento crítico convierte al investigador en un sujeto activo que no se conforma con la “primera impresión” ni con lo que “todo el mundo dice”.<br>
+</div>
+## Cuadro comparativo.
+<table style="width:100%; border-collapse:collapse; font-family: Arial, sans-serif; margin-top:10px;">
+      <thead style="background-color:#0056b3; color:white;">
+        <tr>
+          <th style="padding:8px; border:1px solid #ccc;">Dimensión</th>
+          <th style="padding:8px; border:1px solid #ccc;">Sentido Común</th>
+          <th style="padding:8px; border:1px solid #ccc;">Pensamiento Crítico</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding:8px; border:1px solid #ccc;">Origen</td>
+          <td style="padding:8px; border:1px solid #ccc;">Experiencia cotidiana y tradición cultural.</td>
+          <td style="padding:8px; border:1px solid #ccc;">Análisis reflexivo y sistemático.</td>
+        </tr>
+        <tr>
+          <td style="padding:8px; border:1px solid #ccc;">Evidencia</td>
+          <td style="padding:8px; border:1px solid #ccc;">Basado en creencias compartidas, no siempre comprobables.</td>
+          <td style="padding:8px; border:1px solid #ccc;">Basado en pruebas empíricas y razonamiento lógico.</td>
+        </tr>
+        <tr>
+          <td style="padding:8px; border:1px solid #ccc;">Función</td>
+          <td style="padding:8px; border:1px solid #ccc;">Resolver problemas prácticos de la vida diaria.</td>
+          <td style="padding:8px; border:1px solid #ccc;">Producir conocimiento confiable y argumentado.</td>
+        </tr>
+        <tr>
+          <td style="padding:8px; border:1px solid #ccc;">Limitaciones</td>
+          <td style="padding:8px; border:1px solid #ccc;">Puede reproducir prejuicios y errores.</td>
+          <td style="padding:8px; border:1px solid #ccc;">Requiere esfuerzo, formación y apertura a la revisión.</td>
+        </tr>
+        <tr>
+          <td style="padding:8px; border:1px solid #ccc;">Ejemplos</td>
+          <td style="padding:8px; border:1px solid #ccc;">“Los pobres son pobres porque no trabajan lo suficiente.”</td>
+          <td style="padding:8px; border:1px solid #ccc;">Indagar las causas estructurales de la pobreza mediante indicadores socioeconómicos.</td>
+        </tr>
+      </tbody>
+    </table>
+<details>
+ <summary><strong>Actividades</strong></summary>
+<p style="text-indent: 30px; margin-bottom: 20px;">En el siguiente vínculo encontrarán actividades para trabajar sobre sentido común y pensamiento crítico.<a href="Materiales/Act1.pdf" target="_blank">Actividad n°1 (PDF)</a></p>
+## Videos.
+
+<p style="text-indent: 30px; margin-bottom: 20px;">Y a continuación, unos videos de YOUTUBE en dónde nos hablan del sentido común y el pensamiento crítico.</p><a href="https://youtu.be/jGNjDqrq010?si=-Dk3PGITZFU0Lpip">Sentido común.</a><br>
+<a href="https://youtu.be/3QJU7Ed0DZE?si=gyd3L8whEi-cBajK">Pensamiento crítico.</a>
+
+  </details>
+</details>
+
+</details>
+
+<details>
+<summary><strong>Sociología</strong></summary>
+<details>
+<summary><strong>Introducción</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+**¡Bienvenidas y bienvenidos!**
+<p style="text-indent: 30px; margin-bottom: 20px;">Bienvenidos/as a las clases de Sociología del segundo cuatrimestre correspondientes al primer año del Programa FinES de la ciudad de Rauch.En este apartado encontrarán las explicaciones correspondientes a los conceptos desarrollados en cada clase. También podrán ver actividades para realizar o indicaciones sobre aspectos generales de la clase.<br>¡Buena suerte!
+</p>
+</div>
+</details>
+
+<details>
+<summary><strong>Clases</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<details>
+<summary><strong>Clase 1. Introducción al estudio de la Sociología.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+## Introducción a la Sociología.
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>La sociología es la ciencia que estudia la sociedad, sus estructuras, procesos y transformaciones. A diferencia del sentido común o de la experiencia personal, la sociología utiliza métodos científicos para comprender cómo las personas interactúan entre sí, cómo se organizan en grupos e instituciones, y cómo se generan cambios sociales.<br><span style="font-weight: bold;">1. Objeto de estudio.</span><br>El objeto central de la sociología es la vida social: las relaciones entre individuos y grupos, las normas que regulan la convivencia, los valores compartidos y los conflictos que emergen. <br>Incluye fenómenos como:<br>La familia y sus transformaciones.<br>La educación y el sistema escolar.<br>El trabajo y las organizaciones laborales.<br>Los movimientos sociales y políticos.<br>La desigualdad social y la estratificación.<br><span style="font-weight: bold;">2. Surgimiento de la disciplina.</span><br>La sociología nació en el siglo XIX, en un contexto de grandes transformaciones:<br><span style="font-weight: bold;">Revolución Industrial:</span><br>cambios en el trabajo, urbanización, aparición de nuevas clases sociales.<br><span style="font-weight: bold;">Revolución Francesa:</span><br>cuestionamiento del orden tradicional y surgimiento de la idea de ciudadanía.<br><span style="font-weight: bold;">Expansión científica:</span><br>búsqueda de aplicar métodos de las ciencias naturales al estudio de la sociedad.<br>Los “padres fundadores” de la sociología fueron pensadores como:<span style="font-weight: bold;">Auguste Comte:</span> acuñó el término “sociología” y propuso estudiar la sociedad con base científica.<span style="font-weight: bold;">Karl Marx:</span>analizó la lucha de clases y el conflicto como motor de la historia.<span style="font-weight: bold;">Émile Durkheim:</span>investigó la cohesión social, las normas y fenómenos como el suicidio.<span style="font-weight: bold;">Max Weber:</span>estudió la acción social, la burocracia y el sentido subjetivo de las conductas.<br><span style="font-weight: bold;">3. Perspectiva sociológica.</span><br>Lo que distingue a la sociología es la capacidad de ver lo general en lo particular (cómo las experiencias individuales están influidas por estructuras sociales) y lo extraño en lo familiar (cuestionar prácticas cotidianas que damos por naturales).<span style="font-weight: bold;">Por ejemplo:</span> El hecho de ir a la escuela no depende solo de la decisión personal, sino de un sistema educativo con reglas, instituciones y políticas.<br>Las modas, gustos musicales o consumos culturales no son únicamente elecciones libres, sino que están atravesados por factores sociales como clase, género, edad o territorio.<br><span style="font-weight: bold;">4. Importancia de la sociología.</span><br>Permite comprender mejor los problemas sociales (pobreza, violencia, desigualdad, discriminación).<br>Brinda herramientas para analizar críticamente la realidad, sin quedarse en prejuicios o estereotipos.<br>Contribuye a la formación ciudadana, fomentando una mirada reflexiva y responsable sobre la sociedad en la que vivimos.
+</p>
+</div>
+</details>
+<details>
+<summary><strong>Clase 2. Conceptos básicos.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+## Conceptos básicos.
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**Tema: Conceptos básicos de la sociología**<br><span style="font-weight: bold;">1. Lectura inicial</span><br>Para estudiar la sociedad, la sociología utiliza algunos conceptos que son clave para su desarrollo:<br><span style="font-weight: bold;">Sociedad:</span><br> conjunto de personas que conviven en un territorio, comparten instituciones, normas y valores.<br><span style="font-weight: bold;">Cultura:</span><br>todo lo que las personas crean y transmiten: costumbres, creencias, arte, conocimientos, lengua.<br><span style="font-weight: bold;">Institución:</span>estructuras sociales que organizan la vida colectiva (familia, escuela, Estado, iglesia).<br><span style="font-weight: bold;">Norma:</span>regla que guía la conducta. Puede ser formal (leyes, reglamentos) o informal (usos, costumbres).<br><span style="font-weight: bold;">Rol:</span>el “papel” que una persona cumple en la sociedad, asociado a expectativas (ejemplo: rol de estudiante, de docente, de hijo/a).
+</p>
+<details>
+<summary><strong>Actividades para resolver.</strong></summary>
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>**Actividad 1. Completa con tus palabras:**<br>La realización de estas actividades debe ser realizada en sus carpetas de clases. Copien las consignas y resuelvasn los ejercicios.
+Sociedad es…
+
+Cultura es…
+
+Institución es…
+
+Norma es…
+
+Rol es…
+
+Actividad 2. Ejemplos cotidianos
+👉 Buscá ejemplos de tu vida diaria para cada concepto.
+
+Una institución: ___________
+
+Una norma formal: ___________
+
+Una norma informal: ___________
+
+Un rol que cumplís: ___________
+
+Actividad 3. Reflexión
+En grupos, discutan:
+
+¿Qué pasaría si no existieran normas en la sociedad?
+
+¿Un mismo individuo puede cumplir varios roles a la vez? ¿Se pueden contradecir?
+</p>
+</div>
+  </details>
+ </details>
+</details>
+
+<details>
+<summary><strong>Derechos Humanos</strong></summary>
+<details>
+<summary><strong>Aviso</strong></summary>
+ <div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">**En preparación.**
+<p style="text-indent: 30px; margin-bottom: 20px;">
+Mañana encontrarán este espacio habilitado.
+</p>
+</div>
+ </details>
