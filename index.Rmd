@@ -145,7 +145,7 @@ p {
 <div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
 <p style="text-indent: 30px; margin-bottom: 20px;">En este apartado encontrarán las explicaciones correspondientes a los conceptos desarrollados en cada clase. También podrán ver actividades para realizar o indicaciones sobre aspectos generales de la clase.
 </p>
-</style>
+</div>
 
 <details>
 <summary><strong>Clase 1. Revisión de introducción y saberes previos.</strong></summary><br>
@@ -242,49 +242,193 @@ p {
 <p style="text-indent: 30px; margin-bottom: 20px;">
 <br>**Tema: Conceptos básicos de la sociología**<br><span style="font-weight: bold;">1. Lectura inicial</span><br>Para estudiar la sociedad, la sociología utiliza algunos conceptos que son clave para su desarrollo:<br><span style="font-weight: bold;">Sociedad:</span><br> conjunto de personas que conviven en un territorio, comparten instituciones, normas y valores.<br><span style="font-weight: bold;">Cultura:</span><br>todo lo que las personas crean y transmiten: costumbres, creencias, arte, conocimientos, lengua.<br><span style="font-weight: bold;">Institución:</span>estructuras sociales que organizan la vida colectiva (familia, escuela, Estado, iglesia).<br><span style="font-weight: bold;">Norma:</span>regla que guía la conducta. Puede ser formal (leyes, reglamentos) o informal (usos, costumbres).<br><span style="font-weight: bold;">Rol:</span>el “papel” que una persona cumple en la sociedad, asociado a expectativas (ejemplo: rol de estudiante, de docente, de hijo/a).
 </p>
-<details>
-<summary><strong>Actividades para resolver.</strong></summary>
-<p style="text-indent: 30px; margin-bottom: 20px;"><br>**Actividad 1. Completa con tus palabras:**<br>La realización de estas actividades debe ser realizada en sus carpetas de clases. Copien las consignas y resuelvasn los ejercicios.
-Sociedad es…
+</div>
+<summary><strong>Clase 3. Los grupos sociales, ciudadanía y derechos.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+# Introducción.
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**Tema: Los grupos sociales, ciudadanía y derechos**<br>En las clases anteriores vimos qué es la sociología y cómo estudia la sociedad. Ahora vamos a centrarnos en un concepto clave: <span style="font-weight: bold;">los grupos sociales.</span><br>La vida en sociedad se organiza en torno a **grupos,** y es dentro de ellos donde aprendemos **normas, valores, identidades y roles.** También analizaremos cómo esos grupos, en determinadas condiciones, pueden ser objeto de **exclusión social o vulneración de derechos,** lo que nos lleva a reflexionar sobre los dilemas actuales de la ciudadanía.
 
-Cultura es…
+# ¿Qué son los grupos sociales?
 
-Institución es…
+Un **grupo social** es un conjunto de personas que interactúan entre sí, comparten objetivos, intereses, valores o normas, y se reconocen como parte de una unidad.
+<br>**Características principales:**<br>**Interacción:** existe comunicación e intercambio entre sus miembros.<br>**Normas y valores compartidos:** pautas que regulan la conducta de los integrantes.<br>**Identidad común:** sentimiento de pertenencia.<br>**Estructura:** roles y jerarquías dentro del grupo.<br> Ejemplos: La familia; un grupo de amigos, un sindicato; una organización barrial.
 
-Norma es…
+# Tipos de grupos sociales.
 
-Rol es…
+**Primarios:** relaciones afectivas cercanas y duraderas (ejemplo: familia, amigos íntimos).<br>**Secundarios:** vínculos más formales y orientados a un objetivo (ejemplo: escuela, empresa, club).<br>**De pertenencia:** aquellos a los que un individuo pertenece efectivamente.<br>**De referencia:** aquellos con los que una persona se identifica, aunque no forme parte de ellos.
 
-Actividad 2. Ejemplos cotidianos
-👉 Buscá ejemplos de tu vida diaria para cada concepto.
+# Grupos sociales y ciudadanía.
 
-Una institución: ___________
+La ciudadanía implica el reconocimiento de derechos (civiles, políticos, sociales y culturales) y la posibilidad de ejercerlos en igualdad de condiciones. Sin embargo, **no todos los grupos sociales acceden de la misma manera a esos derechos.** Factores como la **clase social, el género, la edad, la etnia o el lugar de residencia** pueden generar **desigualdades y vulneraciones** de derechos.<br>**Ejemplos de vulneración:**<br>Jóvenes sin acceso a educación de calidad.<br>Mujeres sometidas a violencia de género.<br>Comunidades indígenas con tierras en disputa.<br>Personas migrantes con dificultades para acceder a servicios de salud.
 
-Una norma formal: ___________
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+# Eje problematizador.
 
-Una norma informal: ___________
-
-Un rol que cumplís: ___________
-
-Actividad 3. Reflexión
-En grupos, discutan:
-
-¿Qué pasaría si no existieran normas en la sociedad?
-
-¿Un mismo individuo puede cumplir varios roles a la vez? ¿Se pueden contradecir?
+**Pregunta central:**
+<br>👉 ¿Qué dilemas enfrenta la ciudadanía cuando ciertos grupos sociales ven vulnerados sus derechos?<br>**Algunos dilemas posibles:**<br**Igualdad vs. desigualdad real:** ¿la igualdad legal se traduce en igualdad en la práctica?<br>**Reconocimiento de la diversidad:** ¿cómo incluir a grupos históricamente marginados sin que pierdan su identidad?<br>**Derechos individuales vs. derechos colectivos:** ¿cómo equilibrar ambos en situaciones de conflicto?
 </p>
 </div>
+<details>
+<summary><strong>Actividades para resolver.</strong></summary>
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>**Actividades:**<br>**Conceptual:** Definir con tus palabras qué es un grupo social y dar un ejemplo de cada tipo (primario, secundario, pertenencia, referencia).<br>**Debate en grupo:** ¿Qué derechos son más vulnerados en tu comunidad? ¿Qué grupos sociales son los más afectados?<br>**Ejercicio escrito:** Explicar cómo un grupo social puede convertirse en un actor de cambio para defender la ciudadanía (ejemplo: un movimiento feminista, un centro de estudiantes, una organización de derechos humanos).
+</p>
+</div>
+</details>
+<details>
+<summary><strong>Clase 3. Los grupos sociales, ciudadanía y derechos.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+# Introducción.
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**Tema: Los grupos sociales, ciudadanía y derechos**<br>En las clases anteriores vimos qué es la sociología y cómo estudia la sociedad. Ahora vamos a centrarnos en un concepto clave: <span style="font-weight: bold;">los grupos sociales.</span><br>La vida en sociedad se organiza en torno a **grupos,** y es dentro de ellos donde aprendemos **normas, valores, identidades y roles.** También analizaremos cómo esos grupos, en determinadas condiciones, pueden ser objeto de **exclusión social o vulneración de derechos,** lo que nos lleva a reflexionar sobre los dilemas actuales de la ciudadanía.
+
+# ¿Qué son los grupos sociales?
+
+Un **grupo social** es un conjunto de personas que interactúan entre sí, comparten objetivos, intereses, valores o normas, y se reconocen como parte de una unidad.
+<br>**Características principales:**<br>**Interacción:** existe comunicación e intercambio entre sus miembros.<br>**Normas y valores compartidos:** pautas que regulan la conducta de los integrantes.<br>**Identidad común:** sentimiento de pertenencia.<br>**Estructura:** roles y jerarquías dentro del grupo.<br> Ejemplos: La familia; un grupo de amigos, un sindicato; una organización barrial.
+
+# Tipos de grupos sociales.
+
+**Primarios:** relaciones afectivas cercanas y duraderas (ejemplo: familia, amigos íntimos).<br>**Secundarios:** vínculos más formales y orientados a un objetivo (ejemplo: escuela, empresa, club).<br>**De pertenencia:** aquellos a los que un individuo pertenece efectivamente.<br>**De referencia:** aquellos con los que una persona se identifica, aunque no forme parte de ellos.
+
+# Grupos sociales y ciudadanía.
+
+La ciudadanía implica el reconocimiento de derechos (civiles, políticos, sociales y culturales) y la posibilidad de ejercerlos en igualdad de condiciones. Sin embargo, **no todos los grupos sociales acceden de la misma manera a esos derechos.** Factores como la **clase social, el género, la edad, la etnia o el lugar de residencia** pueden generar **desigualdades y vulneraciones** de derechos.<br>**Ejemplos de vulneración:**<br>Jóvenes sin acceso a educación de calidad.<br>Mujeres sometidas a violencia de género.<br>Comunidades indígenas con tierras en disputa.<br>Personas migrantes con dificultades para acceder a servicios de salud.
+
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+# Eje problematizador.
+
+**Pregunta central:**
+<br>👉 ¿Qué dilemas enfrenta la ciudadanía cuando ciertos grupos sociales ven vulnerados sus derechos?<br>**Algunos dilemas posibles:**<br**Igualdad vs. desigualdad real:** ¿la igualdad legal se traduce en igualdad en la práctica?<br>**Reconocimiento de la diversidad:** ¿cómo incluir a grupos históricamente marginados sin que pierdan su identidad?<br>**Derechos individuales vs. derechos colectivos:** ¿cómo equilibrar ambos en situaciones de conflicto?
+</p>
+</div>
+<details>
+<summary><strong>Actividades para resolver.</strong></summary>
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>**Actividades:**<br>**Conceptual:** Definir con tus palabras qué es un grupo social y dar un ejemplo de cada tipo (primario, secundario, pertenencia, referencia).<br>**Debate en grupo:** ¿Qué derechos son más vulnerados en tu comunidad? ¿Qué grupos sociales son los más afectados?<br>**Ejercicio escrito:** Explicar cómo un grupo social puede convertirse en un actor de cambio para defender la ciudadanía (ejemplo: un movimiento feminista, un centro de estudiantes, una organización de derechos humanos).
+</p>
+</div>
+</details>
+<details>
+<summary><strong>Clase 4. Vulneración de derechos de grupos sociales.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+# Introducción.
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**Tema: Vulneración de derechos.** <br>Hoy vamos a trabajar sobre los derechos y qué pasa cuando no se cumplen. <br>En primer lugar, recordemos que los derechos humanos son aquellas garantías que tenemos todas las personas por el solo hecho de ser personas. *No dependen de la edad, el origen, la religión ni la clase social.* <br>**Se dividen en distintos tipos:** <br>*Derechos civiles:* nos protegen como individuos frente al Estado y frente a otros. Ejemplo: derecho a la vida, a la libertad, a la identidad, a la igualdad ante la ley. <br>*Derechos políticos:* nos permiten participar en la vida pública y en las decisiones de un país. Ejemplo: derecho al voto, a ser elegido, a expresarse políticamente, a participar en organizaciones. <br>*Derechos sociales:* buscan garantizar condiciones dignas de vida. Ejemplo: derecho a la educación, a la salud, al trabajo, a la vivienda, a la seguridad social.<br>Ahora bien, en la realidad no siempre todas las personas pueden acceder de igual manera a estos derechos. A veces se ven limitados, negados o restringidos. A esto lo llamamos **vulneración de derechos.** <br>Por ejemplo: Cuando un niño no puede ir a la escuela porque tiene que trabajar, se vulnera su derecho a la educación. <br>Cuando a una mujer se le paga menos que a un varón por el mismo trabajo, se vulnera su derecho a la igualdad. <br>Cuando una comunidad no tiene acceso a agua potable, se vulnera su derecho a una vida digna y a la salud. <br>Estas situaciones no son casos aislados, sino que muchas veces afectan a grupos sociales enteros: pueblos originarios, migrantes, personas con discapacidad, sectores populares, entre otros. <br>**Pregunta disparadora:** <br>*Para abrir el debate con ustedes:* <br>¿Alguna vez sintieron o vieron que a un grupo de personas no se le reconocieran sus derechos?
+(Pueden pensar en su barrio, en su lugar de trabajo, en noticias que hayan visto, o en su propia experiencia).
+
+# Formas de vulneración de derechos
+
+<br>Cuando hablamos de vulneración de derechos nos referimos a las distintas maneras en que las personas o grupos sociales ven limitado o negado el acceso a aquello que por ley y dignidad les corresponde. Estas vulneraciones no siempre se dan de la misma manera. <br>*Podemos reconocer, al menos, cuatro formas principales:*
+
+## 1. Exclusión
+
+<br>Ocurre cuando se deja a un grupo fuera del acceso a bienes, servicios o instituciones. <br>Ejemplo: cuando un barrio no tiene transporte público y sus habitantes no pueden llegar fácilmente a la escuela, al hospital o al trabajo. <br>*También se da cuando ciertos sectores sociales quedan fuera del sistema educativo, sanitario o laboral.*
+
+## 2. Discriminación
+
+<br>Se produce cuando a una persona o grupo se lo trata de manera desigual por características como su origen, género, edad, religión, orientación sexual, discapacidad o condición económica. <br>Ejemplo: rechazar a alguien en un trabajo por ser migrante, por tener determinada apariencia física o por pertenecer a una minoría. <br>*La discriminación muchas veces se basa en prejuicios y estereotipos que circulan en la sociedad.*
+
+## 3. Desigualdad social
+
+<br>Es una forma de vulneración más estructural y profunda. Se manifiesta cuando distintos grupos tienen desiguales oportunidades de acceso a recursos como educación, salud, vivienda, trabajo digno. <br>Ejemplo: la brecha de ingresos entre varones y mujeres, o entre trabajadores formales e informales. <br>*La desigualdad social no siempre es visible en un hecho puntual, pero se traduce en diferencias persistentes en la calidad de vida.*
+
+## 4. Violencia
+
+<br>Se presenta cuando se usan acciones físicas, psicológicas o simbólicas para limitar o anular los derechos de alguien. <br>Ejemplo: la violencia de género que sufren muchas mujeres y diversidades, la violencia policial ejercida sobre jóvenes de sectores populares, o la violencia simbólica en los medios que ridiculizan a ciertos grupos. <br>*La violencia no solo daña a nivel individual, sino que además refuerza desigualdades sociales.*
+
+# Cierre
+
+<br>Estas cuatro formas de vulneración *—exclusión, discriminación, desigualdad social y violencia—* muchas veces se combinan. Por eso, cuando analizamos un caso concreto, podemos encontrar varias de ellas actuando al mismo tiempo. <br>Ejemplo para pensar juntos/as: Una mujer migrante que trabaja en condiciones precarias puede estar siendo excluida de un trabajo formal, discriminada por su origen, atravesando desigualdad económica y expuesta a violencia laboral.
+
+# Casos en Argentina: grupos sociales y vulneración de derechos.
+<br>En nuestro país, a pesar de los avances en leyes y políticas públicas, muchos grupos sociales siguen sufriendo dificultades para acceder plenamente a sus derechos. Veamos algunos ejemplos:
+
+## 1. Pueblos originarios
+
+<br>*Situación:* muchas comunidades enfrentan problemas en el acceso a la tierra y al territorio, que son esenciales para su cultura y supervivencia. <br>Ejemplo: conflictos por desalojos en comunidades del norte y sur del país (Salta, Formosa, Chubut). <br>*Derecho vulnerado:* derecho a la tierra, a la identidad cultural, al ambiente sano.
+
+## 2. Mujeres
+
+<br>*Situación:* a pesar de los avances en derechos (Ley de Matrimonio Igualitario, Ley de Interrupción Voluntaria del Embarazo, Ley de Paridad Política), las mujeres todavía sufren desigualdad. <br>Ejemplo: brecha salarial (ganan en promedio menos que los varones por el mismo trabajo) y altos índices de violencia de género. <br>*Derecho vulnerado:* derecho a la igualdad, al trabajo digno, a una vida libre de violencia.
+
+## 3. Jóvenes
+
+<br>*Situación:* enfrentan dificultades para acceder al primer empleo y oportunidades educativas. También son estigmatizados por su forma de vestir o por vivir en determinados barrios. <br>Ejemplo: jóvenes de sectores populares que son perseguidos por la policía bajo sospecha solo por su apariencia (“portación de rostro”). <br>*Derecho vulnerado:* derecho al trabajo, a la educación, a la igualdad ante la ley.
+
+## 4. Migrantes
+
+<br>*Situación:* a pesar de que la Constitución Nacional garantiza derechos a todas las personas que habitan el país, los migrantes suelen enfrentar discriminación y trabas burocráticas. <br<Ejemplo: dificultades en el acceso a la salud o la educación por no tener papeles en regla, o discursos que los responsabilizan de problemas sociales. <br>*Derecho vulnerado:* derecho a la igualdad, a la salud, a la educación.
+
+## 5. Población LGBTIQ+
+
+<br>*Situación:* Argentina es pionera en leyes de igualdad (Matrimonio Igualitario, Identidad de Género, Cupo Laboral Travesti-Trans), pero todavía existen situaciones de exclusión. <br>Ejemplo: discriminación laboral hacia personas trans, que tienen altas tasas de desocupación y una expectativa de vida mucho menor que el promedio. <br>*Derecho vulnerado:* derecho al trabajo, a la salud, a la vida digna, a la no discriminación.
+
+## 6. Sectores populares
+
+<br>*Situación:* son los más afectados por la pobreza estructural, la falta de acceso a vivienda digna y servicios básicos. <br>Ejemplo: familias que viven en barrios sin agua potable, cloacas ni transporte, lo que limita el acceso a salud y educación. <br>*Derecho vulnerado:* derecho a la vivienda, a la salud, a la educación, a condiciones de vida dignas.
+
+# Cierre.
+
+<br>Como vemos, cada *grupo* enfrenta formas particulares de vulneración, pero todos tienen en común la dificultad de acceder de manera plena a derechos que ya están reconocidos en la Constitución y en tratados internacionales. <br>**Pregunta para debatir en clase:** <br>*¿Qué creen que tienen en común estos casos? ¿Por qué algunos grupos son más vulnerables que otros?*
+</details>
+   </details>
   </details>
  </details>
 </details>
-
+</details>
 <details>
 <summary><strong>Derechos Humanos</strong></summary>
 <details>
-<summary><strong>Aviso</strong></summary>
- <div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">**En preparación.**
+<summary><strong>Introducción</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
 <p style="text-indent: 30px; margin-bottom: 20px;">
-Mañana encontrarán este espacio habilitado.
+**¿Qué son los Derechos Humanos?**<br>
+**1. Introducción.**<br>Los derechos humanos son un conjunto de derechos universales, inalienables y fundamentales que pertenecen a todas las personas por el solo hecho de serlo. Se basan en valores como la dignidad, la libertad, la igualdad y la justicia.<br>Están reconocidos en documentos internacionales como la Declaración Universal de Derechos Humanos (1948) y en la Constitución Nacional Argentina.<br>**2. Características principales.**<br>**Universales:** corresponden a todas las personas, sin distinción de raza, sexo, religión, edad o nacionalidad.<br>**Inalienables:** nadie puede quitarlos ni renunciar a ellos.<br>**Indivisibles e interdependientes:** todos los derechos (civiles, políticos, económicos, sociales y culturales) están relacionados y tienen igual importancia.<br>**Obligan al Estado:** los gobiernos deben respetarlos, protegerlos y garantizarlos.<br>**3. Clasificación de los Derechos Humanos.**<br>**Derechos civiles y políticos:** vida, libertad, igualdad ante la ley, participación política.<br>**Derechos económicos, sociales y culturales:** educación, salud, trabajo digno, cultura.<br>**Derechos colectivos o de solidaridad:** medio ambiente sano, paz, desarrollo de los pueblos.<br>**4. Ejemplos cotidianos.**<br>**Derecho a la educación:** poder asistir a la escuela sin discriminación.<br>**Derecho a la salud:** acceso a hospitales y atención médica.<br>**Derecho a la libertad de expresión:** poder opinar sin miedo a represalias.<br>**Derecho al trabajo:** empleo en condiciones justas y dignas.<br>**6. Cierre:**Los derechos humanos nos igualan a todos y son la base de la democracia.<br>En las próximas clases se verá cómo se construyeron históricamente y qué luchas sociales hicieron posible su reconocimiento.
 </p>
+</div>
+ </details>
+ 
+<details>
+<summary><strong>Clase 1.¿Qué son los Derechos Humanos?</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+**¿Qué son los Derechos Humanos?**<br>**1. Para empezar.**<br>Los derechos humanos son aquellas condiciones básicas que todas las personas necesitamos para vivir con dignidad. Nos pertenecen a todos, simplemente por el hecho de ser seres humanos.<br>**2. Características principales.**<br>**Universales:** los tienen todas las personas, sin importar quiénes sean ni dónde vivan.<br>**Inalienables:** nadie puede quitárnoslos ni podemos renunciar a ellos.<br>**Indivisibles:** todos son igual de importantes, no se pueden separar.<br>**Protegidos por el Estado:** los gobiernos tienen la obligación de respetarlos y garantizar que se cumplan.<br>**3. Tipos de derechos.**<br>**Civiles y políticos:** derecho a la vida, a la libertad, a votar, a expresarse.<br>**Económicos, sociales y culturales:** derecho a la educación, a la salud, al trabajo digno.<br>**Colectivos o de solidaridad:** derecho a un ambiente sano, a la paz y al desarrollo.<br>**4. Ejemplos cercanos.**<br>**Asistir a la escuela sin discriminación.**<br>**Poder recibir atención médica.**<br>**Expresar tu opinión libremente.**<br>**Tener un trabajo en condiciones justas.**<br>**5. Actividades.**<br>✏️ **Actividad 1 – Lluvia de ideas.**<br>Escribí ejemplos de situaciones en las que se respetan derechos y otras en las que se vulneran.<br>✏️ **Actividad 2 – Lectura y reflexión.**<br>
+Leé este artículo de la Declaración Universal de Derechos Humanos (1948):<br>**"Todos los seres humanos nacen libres e iguales en dignidad y derechos."**<br>**Preguntas para pensar:**<br>¿Qué significa para vos la palabra dignidad?<br>¿Por qué creés que se afirma que todos nacemos libres e iguales?<br>✏️ **Actividad 3 – Debate en grupos.**<br>En pequeños grupos, preparen un ejemplo real o imaginado que muestre:<br>Un derecho humano respetado.<br>Un derecho humano vulnerado.<br>**6. Para cerrar.**<br>Los derechos humanos son la base de la convivencia democrática. Gracias a ellos, todas las personas tenemos garantizadas condiciones mínimas de libertad, igualdad y justicia.
+</p>
+</div>
+ </details>
+ 
+ <details>
+<summary><strong>Clase 2.Origen y evolución de los Derechos Humanos</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**1. Introducción.**<br>En la clase anterior vimos qué son los derechos humanos y cuáles son sus características principales.
+En esta clase vamos a analizar cómo surgieron y cómo fueron evolucionando a lo largo de la historia hasta llegar al reconocimiento actual.<br>**2. Antecedentes.** históricos.<br>**Antigüedad:**<br>En Grecia y Roma existían ideas de ciudadanía y leyes, pero no incluían a todos (esclavos y mujeres quedaban excluidos).<br>**Edad Media:**<br>Carta Magna (Inglaterra, 1215): limitó el poder del rey y reconoció derechos a los nobles.<br>**3. Revoluciones y modernidad.**<br>Revolución Gloriosa (1688, Inglaterra): origen de la Declaración de Derechos de 1689 → libertad de expresión en el Parlamento.<br>Revolución de Independencia de EE.UU. (1776): Declaración de Independencia → **“Todos los hombres son creados iguales”.**<br>Revolución Francesa (1789): Declaración de los Derechos del Hombre y del Ciudadano → igualdad ante la ley, soberanía popular.<br>**4. Siglo XX y actualidad.**<br>Segunda Guerra Mundial: los crímenes cometidos demostraron la necesidad de un acuerdo internacional.<br>1948: Declaración Universal de los Derechos Humanos (ONU).<br>Constitución Nacional Argentina: reconoce y protege derechos humanos en varios artículos, reforzados en la Reforma de 1994.<br>**5. Actividades.**<br>✏️ **Actividad 1 – Línea de tiempo.**<br>
+En grupos, armen una línea de tiempo con los principales hitos históricos mencionados: 1215, 1689, 1776, 1789, 1948.<br>✏️ **Actividad 2 – Lectura y análisis.**<br>
+Fragmento de la Declaración de 1789:<br><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);"><p style="font-size:25px; font-style:italic;">
+**“Los hombres nacen y permanecen libres e iguales en derechos.”**
+</p>
+</div><br><br>
+**Preguntas:**<br>¿Qué relación tiene esta frase con lo que vimos en la Clase 1?<br>¿A quiénes no incluía realmente esta declaración?<br>✏️ **Actividad 3 – Debate.**<br>¿Por qué creen que los derechos humanos no surgieron de una sola vez, sino que fueron el resultado de luchas sociales y políticas?<br>**6. Cierre.**<br>Los derechos humanos son el resultado de una larga historia de luchas, conquistas y acuerdos sociales.<br>Hoy los entendemos como universales, pero esto fue posible gracias a que, en distintos momentos de la historia, personas y pueblos reclamaron por la libertad, la igualdad y la justicia.
+</p>
+</div>
+[Descargar PDF con material para ampliar](INTRO A LOS DDHH.pdf)
+ </details>
+ 
+ <details>
+<summary><strong>Clase 3.Generaciones de Derechos y su vigencia en la actualidad.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;">
+<br>**1. Introducción**<br>En esta clase vamos a profundizar en cómo los derechos humanos se han ido ampliando y transformando a lo largo del tiempo. No siempre existieron tal como los conocemos hoy: se fueron conquistando a través de luchas sociales, políticas y culturales.<br>**2. Desarrollo de contenidos.**<br>
+**a) Generaciones de Derechos**<br>
+**Primera generación:** Derechos civiles y políticos (siglo XVIII – Revoluciones liberales). Ejemplos: derecho a la vida, libertad de expresión, voto.<br>**Segunda generación:** Derechos económicos, sociales y culturales (siglo XIX – luchas obreras). Ejemplos: derecho al trabajo, educación, salud, sindicalización.<br>**Tercera generación:** Derechos de los pueblos y colectivos (siglo XX – posguerra y procesos de descolonización). Ejemplos: derecho a la paz, al medio ambiente sano, a la autodeterminación de los pueblos.<br>**Cuarta generación (discusión actual):** Derechos vinculados a las nuevas tecnologías y la bioética. Ejemplos: protección de datos, acceso a internet, ética en biotecnología.<br>**b) Los derechos como proceso histórico.**<br>
+No fueron otorgados “de arriba hacia abajo”, sino conquistados por los pueblos.Cada generación no reemplaza a la anterior: se acumulan y complementan.<br>La vigencia real **depende de la acción del Estado y la participación ciudadana.**<br>**c) Vigencia actual en Argentina.**<br>Constitución Nacional y tratados internacionales con jerarquía constitucional.<br>Políticas públicas que garantizan derechos (ej.: AUH, matrimonio igualitario, ley de identidad de género).<br>Desafíos actuales: pobreza, desigualdad, acceso a la tecnología, violencia institucional.<br>**3. Actividades:**<br>**Lectura y análisis:**<br>Seleccionar un derecho de cada generación y ejemplificar con un caso concreto en Argentina (pasado o presente).<br>**Debate guiado:**<br>¿Todos los derechos se cumplen por igual en nuestra sociedad?<br>¿Qué grupos sociales enfrentan más obstáculos para el ejercicio de sus derechos?<br>**Trabajo escrito (en parejas):**<br>
+Redactar un breve texto explicando por qué los derechos humanos se consideran universales, inalienables e interdependientes.<br>**4. Cierre y eje problematizador.**<br>Pregunta disparadora:<br>Si los derechos humanos son universales, ¿por qué en la práctica algunas personas tienen más acceso que otras?res e iguales en derechos.”**
+</p>
+[Descargar PDF con material para ampliar](cuadernillo_pasa_la_posta_version_web_22.pdf)
 </div>
  </details>
