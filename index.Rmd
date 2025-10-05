@@ -243,38 +243,6 @@ p {
 <br>**Tema: Conceptos básicos de la sociología**<br><span style="font-weight: bold;">1. Lectura inicial</span><br>Para estudiar la sociedad, la sociología utiliza algunos conceptos que son clave para su desarrollo:<br><span style="font-weight: bold;">Sociedad:</span><br> conjunto de personas que conviven en un territorio, comparten instituciones, normas y valores.<br><span style="font-weight: bold;">Cultura:</span><br>todo lo que las personas crean y transmiten: costumbres, creencias, arte, conocimientos, lengua.<br><span style="font-weight: bold;">Institución:</span>estructuras sociales que organizan la vida colectiva (familia, escuela, Estado, iglesia).<br><span style="font-weight: bold;">Norma:</span>regla que guía la conducta. Puede ser formal (leyes, reglamentos) o informal (usos, costumbres).<br><span style="font-weight: bold;">Rol:</span>el “papel” que una persona cumple en la sociedad, asociado a expectativas (ejemplo: rol de estudiante, de docente, de hijo/a).
 </p>
 </div>
-<summary><strong>Clase 3. Los grupos sociales, ciudadanía y derechos.</strong></summary><br>
-<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
-<p style="text-indent: 30px; margin-bottom: 20px;">
-# Introducción.
-<p style="text-indent: 30px; margin-bottom: 20px;">
-<br>**Tema: Los grupos sociales, ciudadanía y derechos**<br>En las clases anteriores vimos qué es la sociología y cómo estudia la sociedad. Ahora vamos a centrarnos en un concepto clave: <span style="font-weight: bold;">los grupos sociales.</span><br>La vida en sociedad se organiza en torno a **grupos,** y es dentro de ellos donde aprendemos **normas, valores, identidades y roles.** También analizaremos cómo esos grupos, en determinadas condiciones, pueden ser objeto de **exclusión social o vulneración de derechos,** lo que nos lleva a reflexionar sobre los dilemas actuales de la ciudadanía.
-
-# ¿Qué son los grupos sociales?
-
-Un **grupo social** es un conjunto de personas que interactúan entre sí, comparten objetivos, intereses, valores o normas, y se reconocen como parte de una unidad.
-<br>**Características principales:**<br>**Interacción:** existe comunicación e intercambio entre sus miembros.<br>**Normas y valores compartidos:** pautas que regulan la conducta de los integrantes.<br>**Identidad común:** sentimiento de pertenencia.<br>**Estructura:** roles y jerarquías dentro del grupo.<br> Ejemplos: La familia; un grupo de amigos, un sindicato; una organización barrial.
-
-# Tipos de grupos sociales.
-
-**Primarios:** relaciones afectivas cercanas y duraderas (ejemplo: familia, amigos íntimos).<br>**Secundarios:** vínculos más formales y orientados a un objetivo (ejemplo: escuela, empresa, club).<br>**De pertenencia:** aquellos a los que un individuo pertenece efectivamente.<br>**De referencia:** aquellos con los que una persona se identifica, aunque no forme parte de ellos.
-
-# Grupos sociales y ciudadanía.
-
-La ciudadanía implica el reconocimiento de derechos (civiles, políticos, sociales y culturales) y la posibilidad de ejercerlos en igualdad de condiciones. Sin embargo, **no todos los grupos sociales acceden de la misma manera a esos derechos.** Factores como la **clase social, el género, la edad, la etnia o el lugar de residencia** pueden generar **desigualdades y vulneraciones** de derechos.<br>**Ejemplos de vulneración:**<br>Jóvenes sin acceso a educación de calidad.<br>Mujeres sometidas a violencia de género.<br>Comunidades indígenas con tierras en disputa.<br>Personas migrantes con dificultades para acceder a servicios de salud.
-
-<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
-# Eje problematizador.
-
-**Pregunta central:**
-<br>👉 ¿Qué dilemas enfrenta la ciudadanía cuando ciertos grupos sociales ven vulnerados sus derechos?<br>**Algunos dilemas posibles:**<br**Igualdad vs. desigualdad real:** ¿la igualdad legal se traduce en igualdad en la práctica?<br>**Reconocimiento de la diversidad:** ¿cómo incluir a grupos históricamente marginados sin que pierdan su identidad?<br>**Derechos individuales vs. derechos colectivos:** ¿cómo equilibrar ambos en situaciones de conflicto?
-</p>
-</div>
-<details>
-<summary><strong>Actividades para resolver.</strong></summary>
-<p style="text-indent: 30px; margin-bottom: 20px;"><br>**Actividades:**<br>**Conceptual:** Definir con tus palabras qué es un grupo social y dar un ejemplo de cada tipo (primario, secundario, pertenencia, referencia).<br>**Debate en grupo:** ¿Qué derechos son más vulnerados en tu comunidad? ¿Qué grupos sociales son los más afectados?<br>**Ejercicio escrito:** Explicar cómo un grupo social puede convertirse en un actor de cambio para defender la ciudadanía (ejemplo: un movimiento feminista, un centro de estudiantes, una organización de derechos humanos).
-</p>
-</div>
 </details>
 <details>
 <summary><strong>Clase 3. Los grupos sociales, ciudadanía y derechos.</strong></summary><br>
@@ -360,7 +328,7 @@ La ciudadanía implica el reconocimiento de derechos (civiles, políticos, socia
 
 ## 4. Migrantes
 
-<br>*Situación:* a pesar de que la Constitución Nacional garantiza derechos a todas las personas que habitan el país, los migrantes suelen enfrentar discriminación y trabas burocráticas. <br<Ejemplo: dificultades en el acceso a la salud o la educación por no tener papeles en regla, o discursos que los responsabilizan de problemas sociales. <br>*Derecho vulnerado:* derecho a la igualdad, a la salud, a la educación.
+<br>*Situación:* a pesar de que la Constitución Nacional garantiza derechos a todas las personas que habitan el país, los migrantes suelen enfrentar discriminación y trabas burocráticas. <br><Ejemplo: dificultades en el acceso a la salud o la educación por no tener papeles en regla, o discursos que los responsabilizan de problemas sociales. <br>*Derecho vulnerado:* derecho a la igualdad, a la salud, a la educación.
 
 ## 5. Población LGBTIQ+
 
@@ -373,6 +341,10 @@ La ciudadanía implica el reconocimiento de derechos (civiles, políticos, socia
 # Cierre.
 
 <br>Como vemos, cada *grupo* enfrenta formas particulares de vulneración, pero todos tienen en común la dificultad de acceder de manera plena a derechos que ya están reconocidos en la Constitución y en tratados internacionales. <br>**Pregunta para debatir en clase:** <br>*¿Qué creen que tienen en común estos casos? ¿Por qué algunos grupos son más vulnerables que otros?*
+
+<br>**Videos para ampliar:** <br>Grupos Vulnerables y DD.HH.
+ [Ver video en YouTube](https://youtu.be/qzHOhtRSXdI?si=J_WBV0-Ncllhz1dY)
+<p style="text-indent: 30px; margin-bottom: 20px;">En el siguiente vínculo encontrarán alos conceptos de la clase en formato pdf.<a href="Materiales/C4Soc.pdf" target="_blank">Clase 4 (PDF)</a></p>
 </details>
    </details>
   </details>
