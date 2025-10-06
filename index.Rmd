@@ -207,11 +207,167 @@ p {
 <p style="text-indent: 30px; margin-bottom: 20px;">Y a continuación, unos videos de YOUTUBE en dónde nos hablan del sentido común y el pensamiento crítico.</p><a href="https://youtu.be/jGNjDqrq010?si=-Dk3PGITZFU0Lpip">Sentido común.</a><br>
 <a href="https://youtu.be/3QJU7Ed0DZE?si=gyd3L8whEi-cBajK">Pensamiento crítico.</a>
 
+   </details>
+<details>
+<summary><strong>Clase 3. Variables, tabulación, visualización.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>En el link que tienen a continuación se encuentra el material de la presente clase en formato PDF.<br>
+<a href="Materiales/PDF_clase-metod.pdf" target="_blank">Material de cursada (PDF)</a>
+</div>
   </details>
-</details>
+  
+  <details>
+<summary><strong>Clase 4. Práctica con encuesta propia.</strong></summary><br>
+<div style="border: 1px solid #4B5320; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 20px;box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+<p style="text-indent: 30px; margin-bottom: 20px;"><br>A continuación presentamos un ejemplo de recolección de datos, tabulación y visualización hecho a partir de una encuesta propia.<br>[Enlace a la encuesta](https://consulta.shinyapps.io/encuesta-fines/)
 
-</details>
+# **Resultados:**
+## Análisis.
 
+```{r, results='hide', echo=FALSE, include=FALSE}
+library(readxl)
+encuesta <- read_excel("Materiales/encuesta.xlsx")
+```
+
+```{r, include=FALSE}
+# Cargar librerías necesarias
+library(readxl)
+library(dplyr)
+library(ggplot2)
+library(janitor)
+```
+
+```{r, include=FALSE, echo=FALSE}
+# Estructura general del dataset
+glimpse(encuesta)
+
+# Nombres limpios de columnas (sin espacios ni tildes)
+encuesta <- encuesta %>% clean_names()
+```
+
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(janitor)
+library(purrr)
+
+# --- Lista exacta de problemas que pegaste ---
+problemas_display <- c(
+  "Bajos ingresos", "Transito vehicular", "Desempleo", "Inseguridad",
+  "Falta de asfalto", "Estado de calles y veredas", "Calle anegada",
+  "Falta de poda", "Falta de cloacas", "Caminos rurales",
+  "Espacios públicos", "Falta de cestos", "Jard_mat", "Gas_nat",
+  "Iluminacion", "Tran_esco"
+)
+
+# Mapear a nombres "clean" (los que creó clean_names en tu dataset)
+problemas_cols <- janitor::make_clean_names(problemas_display)
+
+# Verificar que existan en el dataset y avisar si falta alguno
+existen <- problemas_cols %in% names(encuesta)
+if (!all(existen)) {
+  warning("Faltan estas columnas en `encuesta`: ",
+          paste(problemas_display[!existen], collapse = ", "))
+}
+# Usar solo los que existen
+problemas_cols <- problemas_cols[existen]
+problemas_display <- problemas_display[existen]
+
+# Función segura para convertir a 0/1
+to_01 <- function(x, empty_as_zero = TRUE) {
+  xc <- as.character(x)
+  xc_trim <- trimws(xc)
+  # convertir cadena vacía a NA
+  xc_trim[xc_trim == ""] <- NA_character_
+  xl <- tolower(xc_trim)
+  is_one <- xl %in% c("1", "1.0", "true", "t", "si", "sí", "yes")
+  is_zero <- xl %in% c("0", "0.0", "false", "f", "no")
+  if (empty_as_zero) {
+    is_zero[is.na(xl)] <- TRUE
+    is_one[is.na(xl)] <- FALSE
+  }
+  res <- rep(NA_real_, length(xl))
+  res[is_one]  <- 1
+  res[is_zero & !is_one] <- 0
+  # intentar conversión numérica para valores no reconocidos
+  idx_unrec <- which(is.na(res) & !is.na(xl))
+  if (length(idx_unrec) > 0) {
+    num_try <- suppressWarnings(as.numeric(xl[idx_unrec]))
+    res[idx_unrec][!is.na(num_try) & num_try == 1] <- 1
+    res[idx_unrec][!is.na(num_try) & num_try == 0] <- 0
+  }
+  return(res)
+}
+
+# Seleccionar y convertir
+enc_probl_num <- encuesta %>%
+  select(any_of(problemas_cols)) %>%
+  mutate(across(everything(), ~ to_01(.x, empty_as_zero = TRUE)))
+
+# Nombre legible para la tabla (mapear columnas limpias a labels originales)
+name_map <- tibble(col = problemas_cols, label = problemas_display)
+
+# Calcular conteos y porcentajes
+n_total <- nrow(encuesta)
+diagn <- tibble(
+  problema_col = names(enc_probl_num),
+  mentions = map_int(enc_probl_num, ~ sum(.x == 1, na.rm = TRUE)),
+  n_non_na = map_int(enc_probl_num, ~ sum(!is.na(.x)))
+) %>%
+  left_join(name_map, by = c("problema_col" = "col")) %>%
+  mutate(
+    pct_of_total = round(mentions / n_total * 100, 2),
+    pct_of_responded = round(ifelse(n_non_na > 0, mentions / n_non_na * 100, NA_real_), 2),
+    label = if_else(is.na(label), problema_col, label)
+  ) %>%
+  arrange(desc(pct_of_total))
+
+# Gráfico: porcentaje sobre total de encuestados con menciones entre paréntesis
+ggplot(diagn, aes(x = reorder(label, pct_of_total), y = pct_of_total, fill = label)) +
+  geom_col(show.legend = FALSE) +
+  coord_flip() +
+  geom_text(aes(label = paste0(pct_of_total, "% (", mentions, ")")), hjust = -0.05, size = 3) +
+  labs(
+    y = "Porcentaje sobre total de encuestados",
+    x = "",
+    title = "Menciones por problema (1 = mencionado)"
+  ) +
+  ylim(0, 100) +
+  theme_minimal()
+```
+
+
+```{r, include=FALSE}
+# Ejemplo: distribución por género
+tabla_genero <- encuesta %>%
+  count(sexo) %>%
+  mutate(porcentaje = round(100 * n / sum(n), 1))
+
+tabla_genero
+```
+
+```{r, echo=FALSE}
+library(knitr)
+kable(tabla_genero, caption = "Distribución por sexo")
+```
+
+```{r, echo=FALSE}
+ggplot(tabla_genero, aes(x = sexo, y = porcentaje)) +
+  geom_col(fill = "steelblue") +
+  geom_text(aes(label = paste0(porcentaje, "%")), vjust = -0.3, size = 4) +
+  labs(title = "Distribución por sexo",
+       x = "Sexo",
+       y = "Porcentaje") +
+  theme_minimal(base_size = 12)
+```
+
+
+</div>
+  </details>
+ </details>
+</details>
 <details>
 <summary><strong>Sociología</strong></summary>
 <details>
